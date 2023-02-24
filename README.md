@@ -1,8 +1,8 @@
 
 # KAMRUZZAMA's Status
 
-![github stats](https://github-readme-stats.vercel.app/api?username=kzamaan&show_icons=true&line_height=30)
-![github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kzamaan)
+<img title="github stats" src="https://github-readme-stats.vercel.app/api?username=kzamaan&show_icons=true&line_height=27">
+<img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzamaan">
 
 ## My Tech Stack
 
@@ -26,13 +26,14 @@
 ![Laravel](https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=flat-square&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Laravel%20Livewire%20-%23FF2D20.svg?&style=flat-square&logo=laravel-livwire&logoColor=white)
 ![Vue.JS](https://img.shields.io/badge/VueJs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/React%20JS-%2335495e.svg?&style=flat-square&logo=reactjs&logoColor=%234FC08D)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress%20-%2321759B.svg?&style=flat-square&logo=wordpress&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS%20-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Databases
 
-![MYSQL](http://img.shields.io/badge/MYSQL%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+![MYSQL](https://img.shields.io/badge/-MYSQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 
