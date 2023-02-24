@@ -1,8 +1,10 @@
 
 # KAMRUZZAMA's Status
 
-<img title="github stats" src="https://github-readme-stats.vercel.app/api?username=kzamaan&show_icons=true&line_height=27">
-<img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzamaan">
+<p>
+    <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=kzamaan&show_icons=true&line_height=27">
+    <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzamaan">
+</p>
 
 ## My Tech Stack
 
