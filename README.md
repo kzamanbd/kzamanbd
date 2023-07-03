@@ -6,7 +6,7 @@
     <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzamaan">
 </p>
 
-## My Tech Stack
+## Tech Stack
 
 ### Programming Languages
 
