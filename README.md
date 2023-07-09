@@ -27,7 +27,7 @@ Want to know more about me ? [**Check out my Portfolio.**](https://kzamaan.githu
 ![Redux](https://raw.githubusercontent.com/kzamaan/kzamaan/master/images/redux.png)
 ![HTML5](https://raw.githubusercontent.com/kzamaan/kzamaan/master/images/html.png)
 ![CSS3](https://raw.githubusercontent.com/kzamaan/kzamaan/master/images/css.png)
-![Bootstrap](https://raw.githubusercontent.com/kzamaan/kzamaan/master/images/bootstrap.svg)
+![Bootstrap](https://raw.githubusercontent.com/kzamaan/kzamaan/master/images/bootstrap.png)
 ![Tailwind CSS](https://raw.githubusercontent.com/kzamaan/kzamaan/master/images/tailwindcss.png)
 ![jQuery](https://raw.githubusercontent.com/kzamaan/kzamaan/master/images/jquery.png)
 ![MYSQL](https://raw.githubusercontent.com/kzamaan/kzamaan/master/images/mysql.png)
