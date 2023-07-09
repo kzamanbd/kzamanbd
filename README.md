@@ -35,6 +35,6 @@ Want to know more about me ? [**Check out my Portfolio.**](https://kzamaan.githu
 ![Git](https://raw.githubusercontent.com/kzamaan/kzamaan/master/images/git.png)
 ![Docker](https://raw.githubusercontent.com/kzamaan/kzamaan/master/images/docker.png)
 ![Apache](https://raw.githubusercontent.com/kzamaan/kzamaan/master/images/apache.png)
-![Nginx](https://raw.githubusercontent.com/kzamaan/kzamaan/master/images/nginx.jpg)
+![Nginx](https://raw.githubusercontent.com/kzamaan/kzamaan/master/images/nginx.png)
 ![Jira](https://raw.githubusercontent.com/kzamaan/kzamaan/master/images/jira.png)
 ![Trello](https://raw.githubusercontent.com/kzamaan/kzamaan/master/images/trello.png)
