@@ -14,10 +14,7 @@ Want to know more about me? [**Check out my Portfolio.**](https://kzamaan.github
 
 [![Linkedin](https://raw.githubusercontent.com/kzamaan/kzamaan/master/images/linkedin.png "Linkedin")](https://www.linkedin.com/in/kzamanbd "Linkedin") [![Facebook](https://raw.githubusercontent.com/kzamaan/kzamaan/master/images/facebook.png "Facebook")](http://facebook.com/kzaman.me "Facebook") [![Discord](https://raw.githubusercontent.com/kzamaan/kzamaan/master/images/discord.png "Discord")](https://discordapp.com/users/kzaman#9304 "Discord") [![Instagram](https://raw.githubusercontent.com/kzamaan/kzamaan/master/images/instagram.png "Instagram")](https://www.instagram.com/kzaman.me/ "Instagram")
 
-<p style="display:flex; gap: 10;">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@kzaman&layout=compact" alt="kzaman"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=kzamaan&show_icons=true&line_height=37" alt="GitHub followers"/>
-</p>
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kzaman&layout=compact) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kzamaan&show_icons=true&line_height=37)
 
 ## Tech Stack
 
