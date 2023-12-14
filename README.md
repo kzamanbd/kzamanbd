@@ -7,15 +7,16 @@ I am **KAMRUZZAMAN**, a self-taught Software Developer from Bangladesh. I have b
 
 Want to know more about me? [**Check out my Portfolio.**](https://kzamanbd.github.io/)
 
-- 📚 Currently I am focusing on Node.js
+-   📚 Currently I am focusing on Node.js
 
-- 🎯 Goal of 2023 is to learn Node.js, Vue.js & Industrial Good Practices
+-   🎯 Goal of 2023 is to learn Node.js, Vue.js & Industrial Good Practices
 
 ## Find me on Social Platforms
 
-[![Linkedin](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/linkedin.png "Linkedin")](https://www.linkedin.com/in/kzamanbd "Linkedin") [![Facebook](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/facebook.png "Facebook")](http://facebook.com/kzaman.me "Facebook") [![Discord](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/discord.png "Discord")](https://discordapp.com/users/kzaman#9304 "Discord") [![Instagram](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/instagram.png "Instagram")](https://www.instagram.com/kzaman.me/ "Instagram")
+[![Linkedin](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/linkedin.png 'Linkedin')](https://www.linkedin.com/in/kzamanbd 'Linkedin') [![Facebook](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/facebook.png 'Facebook')](http://facebook.com/kzaman.me 'Facebook') [![Discord](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/discord.png 'Discord')](https://discordapp.com/users/kzaman#9304 'Discord') [![Instagram](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/instagram.png 'Instagram')](https://www.instagram.com/kzaman.me/ 'Instagram')
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kzaman&layout=compact) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kzamanbd&show_icons=true&line_height=37)
+![Github](https://raw.githubusercontent.com/kzamanbd/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Github](https://raw.githubusercontent.com/kzamanbd/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## Tech Stack
 
