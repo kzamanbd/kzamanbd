@@ -15,6 +15,9 @@ Want to know more about me? [**Check out my Portfolio.**](https://kzamanbd.githu
 
 [![Linkedin](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/linkedin.png 'Linkedin')](https://www.linkedin.com/in/kzamanbd 'Linkedin') [![Facebook](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/facebook.png 'Facebook')](http://facebook.com/kzaman.me 'Facebook') [![Discord](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/discord.png 'Discord')](https://discordapp.com/users/kzaman#9304 'Discord') [![Instagram](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/instagram.png 'Instagram')](https://www.instagram.com/kzaman.me/ 'Instagram')
 
+[![Followers](https://img.shields.io/github/followers/kzamanbd?username=kzamanbd&label=Followers)](https://github.com/kzamanbd?tab=followers)
+![Profile](https://komarev.com/ghpvc/?username=kzamanbd&label=Profile%20views&color=green&style=flat)
+
 ![Github](https://raw.githubusercontent.com/kzamanbd/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![Github](https://raw.githubusercontent.com/kzamanbd/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
