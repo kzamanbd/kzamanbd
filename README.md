@@ -20,6 +20,7 @@ Want to know more about me? [**Check out my Portfolio.**](https://kzamanbd.githu
 
 ![Github](https://raw.githubusercontent.com/kzamanbd/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![Github](https://raw.githubusercontent.com/kzamanbd/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![Kamruzzaman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kzamanbd&theme=github-compact)](https://github.com/kzamanbd)
 
 ## Tech Stack
 
