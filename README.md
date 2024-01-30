@@ -1,9 +1,10 @@
 # Hey There 👋
 
 [![Linkedin](https://github.com/kzamanbd/kzamanbd/blob/master/gitartwork.svg)](https://www.linkedin.com/in/kzamanbd)
+[![Snack](https://github.com/kzamanbd/kzamanbd/output/snake.svg)](https://www.linkedin.com/in/kzamanbd)
 [![Linkedin](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/github-cover.png)](https://www.linkedin.com/in/kzamanbd)
 
-I am **KAMRUZZAMAN**, a self-taught Software Developer from Bangladesh. I have been working as a Professional Full Stack Developer for the last 3 years, Though I started my Self-Taught Programming Journey In 2016. I specialize in converting pixel-perfect web pages for my company with 100% Mobile responsiveness. In the last few years, I have helped dozen of my client to create websites for their business that are absolutely mobile and SEO-friendly.
+I am **KAMRUZZAMAN**, a self-taught Software Developer from Bangladesh. I have been working as a Professional Full Stack Developer for the last 3 years, Though I started my Self-Taught Programming Journey In 2016. I specialize in converting pixel-perfect web pages for my company with 100% Mobile responsiveness. In the last few years, I have helped dozens of my client create websites for their business that are mobile and SEO-friendly.
 
 Want to know more about me? [**Check out my Portfolio.**](https://kzamanbd.github.io/)
 
