@@ -7,9 +7,9 @@ I am **KAMRUZZAMAN**, a self-taught Software Developer from Bangladesh. I have b
 
 Want to know more about me? [**Check out my Portfolio.**](https://kzamanbd.github.io/)
 
--   📚 Currently I am focusing on Node.js
+- 📚 Currently I am focusing on Node.js
 
--   🎯 Goal of 2023 is to learn Node.js, Vue.js & Industrial Good Practices
+- 🎯 Goal of 2023 is to learn Node.js, Vue.js & Industrial Good Practices
 
 ## Find me on Social Platforms
 
@@ -20,7 +20,6 @@ Want to know more about me? [**Check out my Portfolio.**](https://kzamanbd.githu
 ![Kamruzzaman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kzamanbd&theme=github-compact)
 ![Github](https://raw.githubusercontent.com/kzamanbd/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![Github](https://raw.githubusercontent.com/kzamanbd/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
 
 ## Tech Stack
 
