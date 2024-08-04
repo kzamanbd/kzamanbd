@@ -1,4 +1,4 @@
-name: Snake Animation
+name: Snake Animation SVG
 
 on:
     schedule: # Execute every 12 hours
