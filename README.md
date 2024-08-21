@@ -48,24 +48,3 @@ Want to know more about me? [**Check out my Portfolio.**](https://kzamanbd.githu
 
 ![MYSQL](https://img.shields.io/badge/-MYSQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Version Controlling Tool
-
-![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)
-
-### Editors & IDE's
-
-![VSCode](https://img.shields.io/badge/--%23007ACC?style=for-the-badge&logo=visual-studio-code)
-![PhpStorm](https://img.shields.io/badge/-PhpStorm-%239250f5?style=for-the-badge&logo=phpstorm)
-![PyCharm](https://img.shields.io/badge/-PyCharm-%23000000?style=for-the-badge&logo=pycharm)
-![Sublime](https://img.shields.io/badge/-Sublime%20Text-%23FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
-
-### Other Tools
-
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff)
-![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?&style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%230079BF.svg?&style=for-the-badge&logo=trello&logoColor=white)
