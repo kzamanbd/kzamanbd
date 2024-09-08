@@ -1,7 +1,7 @@
 name: Metrics SVG
 on:
     schedule: # Execute every 12 hours
-        - cron: '* */12 * * *'
+        - cron: '0 0 * * 0'
     # Lines below let you run workflow manually and on each commit (optional)
     workflow_dispatch:
 
