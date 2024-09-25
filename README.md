@@ -17,8 +17,9 @@ Want to know more about me? [**Check out my Portfolio.**](https://kzamanbd.githu
 
 [![Followers](https://img.shields.io/github/followers/kzamanbd?username=kzamanbd&label=Followers)](https://github.com/kzamanbd?tab=followers)
 ![Profile](https://komarev.com/ghpvc/?username=kzamanbd&label=Profile%20views&color=green&style=flat)
-![Github](https://raw.githubusercontent.com/kzamanbd/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![Github](https://raw.githubusercontent.com/kzamanbd/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+![Github Overview](https://raw.githubusercontent.com/kzamanbd/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Github Language](https://raw.githubusercontent.com/kzamanbd/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## Tech Stack
 
