@@ -9,7 +9,7 @@ Want to know more about me? [**Check out my Portfolio.**](https://kzamanbd.githu
 
 - 📚 Currently I am focusing on Node.js
 
-- 🎯 Goal of 2023 is to learn Node.js, Vue.js & Industrial Good Practices
+- 🎯 Goal of 2025 is to learn Node.js, Vue.js & Industrial Good Practices
 
 ## Find me on Social Platforms
 
