@@ -1,30 +1,29 @@
-# Hey There 👋
+# Hi 👋, I'm KAMRUZZAMAN
 
 [![Linkedin](https://raw.githubusercontent.com/kzamanhq/kzamanhq/refs/heads/main/gitartwork.svg)](https://www.linkedin.com/in/kzamanhq)
 [![wakatime](https://wakatime.com/badge/user/52972f6b-b1fc-4c47-9571-1efdf268d9ac.svg)](https://wakatime.com/@52972f6b-b1fc-4c47-9571-1efdf268d9ac)
+### Self-taught Software Engineer from Bangladesh
 
-I am **KAMRUZZAMAN**, a self-taught Software Developer from Bangladesh. I have been working as a Professional Full Stack Developer for the last 3 years, Though I started my Self-Taught Programming Journey In 2016. I specialize in converting pixel-perfect web pages for my company with 100% Mobile responsiveness. In the last few years, I have helped dozens of my client create websites for their business that are mobile and SEO-friendly.
+I've been a Professional Full Stack Developer for the last 5 years, though my self-taught programming journey began back in 2016. I specialize in converting pixel-perfect designs into 100% mobile-responsive web pages, and I've helped dozens of clients build mobile- and SEO-friendly websites for their businesses.
 
 Want to know more about me? [**Check out my Portfolio.**](https://kzamanhq.github.io/)
 
-- 📚 Currently I am focusing on Node.js
-
-- 🎯 Goal of 2026 is to learn Agentic AI 
+- 📚 Currently focusing on **Node.js**
+- 🎯 2026 goal: learn **Agentic AI**
 
 ## Find me on Social Platforms
 
 [![Linkedin](https://raw.githubusercontent.com/kzamanhq/kzamanhq/master/images/linkedin.png 'Linkedin')](https://www.linkedin.com/in/kzamanhq 'Linkedin') [![Facebook](https://raw.githubusercontent.com/kzamanhq/kzamanhq/master/images/facebook.png 'Facebook')](http://facebook.com/kzaman.me 'Facebook') [![Discord](https://raw.githubusercontent.com/kzamanhq/kzamanhq/master/images/discord.png 'Discord')](https://discordapp.com/users/kzaman#9304 'Discord') [![Instagram](https://raw.githubusercontent.com/kzamanhq/kzamanhq/master/images/instagram.png 'Instagram')](https://www.instagram.com/kzaman.me/ 'Instagram')
 
 [![Followers](https://img.shields.io/github/followers/kzamanhq?username=kzamanhq&label=Followers)](https://github.com/kzamanhq?tab=followers)
-![Profile](https://komarev.com/ghpvc/?username=kzamanhq&label=Profile%20views&color=green&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=kzamanhq&label=Profile%20views&color=green&style=flat)
 
-![Github Overview](https://raw.githubusercontent.com/kzamanhq/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![Github Language](https://raw.githubusercontent.com/kzamanhq/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![GitHub Overview](https://raw.githubusercontent.com/kzamanhq/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![GitHub Languages](https://raw.githubusercontent.com/kzamanhq/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## Tech Stack
 
 ### Programming Languages
-
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![JAVA](https://img.shields.io/badge/JAVA-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
@@ -32,7 +31,6 @@ Want to know more about me? [**Check out my Portfolio.**](https://kzamanhq.githu
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Web Technologies, Frameworks & CMS
-
 ![Laravel](https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Laravel%20Livewire%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel-livwire&logoColor=white)
 ![Vue.JS](https://img.shields.io/badge/VueJs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
@@ -45,6 +43,5 @@ Want to know more about me? [**Check out my Portfolio.**](https://kzamanhq.githu
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Databases
-
 ![MYSQL](https://img.shields.io/badge/-MYSQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
