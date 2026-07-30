@@ -11,7 +11,7 @@ jobs:
             - uses: jasineri/gitartwork@v1
               with:
                   # Use this username's contribution graph
-                  user_name: kzamanbd
+                  user_name: kzamanhq
                   # Text on contribution graph
                   text: ZAMAN
             - uses: jasineri/simple-push-action@v1
