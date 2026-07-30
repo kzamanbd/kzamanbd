@@ -1,6 +1,6 @@
 # Hey There 👋
 
-[![Linkedin](https://github.com/kzamanhq/kzamanhq/blob/master/gitartwork.svg)](https://www.linkedin.com/in/kzamanhq)
+[![Linkedin](https://raw.githubusercontent.com/kzamanhq/kzamanhq/refs/heads/main/gitartwork.svg)](https://www.linkedin.com/in/kzamanhq)
 [![wakatime](https://wakatime.com/badge/user/52972f6b-b1fc-4c47-9571-1efdf268d9ac.svg)](https://wakatime.com/@52972f6b-b1fc-4c47-9571-1efdf268d9ac)
 
 I am **KAMRUZZAMAN**, a self-taught Software Developer from Bangladesh. I have been working as a Professional Full Stack Developer for the last 3 years, Though I started my Self-Taught Programming Journey In 2016. I specialize in converting pixel-perfect web pages for my company with 100% Mobile responsiveness. In the last few years, I have helped dozens of my client create websites for their business that are mobile and SEO-friendly.
