@@ -48,3 +48,8 @@ Want to know more about me? [**Check out my Portfolio.**](https://kzamanbd.githu
 
 ![MYSQL](https://img.shields.io/badge/-MYSQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<script>
+console.log('Hello world from github');
+  
+</script>
