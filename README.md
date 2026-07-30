@@ -1,25 +1,25 @@
 # Hi 👋, I'm KAMRUZZAMAN
 
-[![Linkedin](https://raw.githubusercontent.com/kzamanhq/kzamanhq/refs/heads/main/gitartwork.svg)](https://www.linkedin.com/in/kzamanhq)
+[![Linkedin](https://raw.githubusercontent.com/kzamanbd/kzamanbd/refs/heads/main/gitartwork.svg)](https://www.linkedin.com/in/kzamanbd)
 [![wakatime](https://wakatime.com/badge/user/52972f6b-b1fc-4c47-9571-1efdf268d9ac.svg)](https://wakatime.com/@52972f6b-b1fc-4c47-9571-1efdf268d9ac)
 ### Self-taught Software Engineer from Bangladesh
 
 I've been a Professional Full Stack Developer for the last 5 years, though my self-taught programming journey began back in 2016. I specialize in converting pixel-perfect designs into 100% mobile-responsive web pages, and I've helped dozens of clients build mobile- and SEO-friendly websites for their businesses.
 
-Want to know more about me? [**Check out my Portfolio.**](https://kzamanhq.github.io/)
+Want to know more about me? [**Check out my Portfolio.**](https://kzamanbd.github.io/)
 
 - 📚 Currently focusing on **Node.js**
 - 🎯 2026 goal: learn **Agentic AI**
 
 ## Find me on Social Platforms
 
-[![Linkedin](https://raw.githubusercontent.com/kzamanhq/kzamanhq/master/images/linkedin.png 'Linkedin')](https://www.linkedin.com/in/kzamanhq 'Linkedin') [![Facebook](https://raw.githubusercontent.com/kzamanhq/kzamanhq/master/images/facebook.png 'Facebook')](http://facebook.com/kzaman.me 'Facebook') [![Discord](https://raw.githubusercontent.com/kzamanhq/kzamanhq/master/images/discord.png 'Discord')](https://discordapp.com/users/kzaman#9304 'Discord') [![Instagram](https://raw.githubusercontent.com/kzamanhq/kzamanhq/master/images/instagram.png 'Instagram')](https://www.instagram.com/kzaman.me/ 'Instagram')
+[![Linkedin](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/linkedin.png 'Linkedin')](https://www.linkedin.com/in/kzamanbd 'Linkedin') [![Facebook](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/facebook.png 'Facebook')](http://facebook.com/kzaman.me 'Facebook') [![Discord](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/discord.png 'Discord')](https://discordapp.com/users/kzaman#9304 'Discord') [![Instagram](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/instagram.png 'Instagram')](https://www.instagram.com/kzaman.me/ 'Instagram')
 
-[![Followers](https://img.shields.io/github/followers/kzamanhq?username=kzamanhq&label=Followers)](https://github.com/kzamanhq?tab=followers)
-![Profile Views](https://komarev.com/ghpvc/?username=kzamanhq&label=Profile%20views&color=green&style=flat)
+[![Followers](https://img.shields.io/github/followers/kzamanbd?username=kzamanbd&label=Followers)](https://github.com/kzamanbd?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=kzamanbd&label=Profile%20views&color=green&style=flat)
 
-![GitHub Overview](https://raw.githubusercontent.com/kzamanhq/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![GitHub Languages](https://raw.githubusercontent.com/kzamanhq/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![GitHub Overview](https://raw.githubusercontent.com/kzamanbd/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![GitHub Languages](https://raw.githubusercontent.com/kzamanbd/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## Tech Stack
 
