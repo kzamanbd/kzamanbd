@@ -9,7 +9,7 @@ I've been a Professional Full Stack Developer for the last 5 years, though my se
 Want to know more about me? [**Check out my Portfolio.**](https://kzamanbd.github.io/)
 
 - 📚 Currently focusing on **Node.js**
-- 🎯 2026 goal: learn **Agentic AI**
+- 🎯 2026 goal: learn **System Design**
 
 ## Find me on Social Platforms
 
