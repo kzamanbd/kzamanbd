@@ -6,7 +6,7 @@
 
 I've been a Professional Full Stack Developer for the last 5 years, though my self-taught programming journey began back in 2016. I specialize in converting pixel-perfect designs into 100% mobile-responsive web pages, and I've helped dozens of clients build mobile- and SEO-friendly websites for their businesses.
 
-Want to know more about me? [**Check out my Portfolio.**](https://kzamanbd.github.io/)
+Want to know more about me? [**Check out my Portfolio.**](https://kzaman.com)
 
 - 📚 Currently focusing on **Node.js**
 - 🎯 2026 goal: learn **System Design**
