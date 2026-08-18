@@ -2,7 +2,6 @@
 
 [![Linkedin](https://raw.githubusercontent.com/kzamanbd/kzamanbd/refs/heads/main/gitartwork.svg)](https://www.linkedin.com/in/kzamanbd)
 [![wakatime](https://wakatime.com/badge/user/52972f6b-b1fc-4c47-9571-1efdf268d9ac.svg)](https://wakatime.com/@52972f6b-b1fc-4c47-9571-1efdf268d9ac)
-### Self-taught Software Engineer from Bangladesh
 
 I've been a professional full-stack engineer since 2020, though my self-taught programming journey began back in 2016. These days I build and maintain multi-vendor marketplace software at [weDevs](https://wedevs.com) — payment gateways, ERP integrations, and the WordPress plugins that hold them together. Most of my time goes to Dokan, where a change has to work for thousands of stores at once.
 
